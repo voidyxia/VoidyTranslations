@@ -20,7 +20,7 @@
     "processingTitle": "Processing...",
     "processingMessage": "Please wait while we process your request...",
 
-    "userNotFound": "User not found! Make sure you're the user is within this server.",
+    "userNotFound": "User not found! Make sure the user is within this server.",
     "userNotVerified": "You (or the requested user) is not verified! Verify yourself by using the `/verify` command. \n\nIf you think this is a mistake, please retry again later.",
 
     "userInformationFailed": "Failed to fetch user information!",
