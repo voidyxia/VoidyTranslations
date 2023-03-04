@@ -1,0 +1,31 @@
+{
+    "no_exist_user": "The given Roblox User does not exist.",
+    "already_verifying": "You are already verifying yourself, was it a mistake? Revert your choice ingame or wait out a bit before trying again.",
+    "already_verified": "You are already verified! If you want to unverify, use the `/unverify` command.",
+
+    "VerifyModal_IngameInstructionsTitle": "Hey there, %s!",
+    "VerifyModal_IngameInstructions": "To complete verification, please join one of Voidyxia's projects such as [Emote Legacy](https://www.roblox.com/games/6562263018/Emote-Legacy) and then continue instructions ingame with the account you're trying to verify.",
+
+    "Verification_FailTitle": "Verification failed!",
+    "Verification_FailMessage": "Unfortunately your verification attempt didn't go through, make sure to follow the instructions correctly. If you're still having issues, please contact us through **support@voidyxia.gg**!",
+
+    "Unverification_SuccessTitle": "Unverifying successful!",
+    "Unverification_SuccessMessage": "Your account has been unverified. You can now verify with another Roblox account.",
+    "Unverification_FailTitle": "Unverifying failed!",
+    "Unverification_FailMessage": "Unfortunately your unverification attempt didn't go through, please try later.",
+
+    "Verification_Requirement": "You need to be verified to use this command!",
+    "embedGeneralErrorMessage": "An error occured!",
+
+    "processingTitle": "Processing...",
+    "processingMessage": "Please wait while we process your request...",
+
+    "userNotFound": "User not found! Make sure you're the user is within this server.",
+    "userNotVerified": "You (or the requested user) is not verified! Verify yourself by using the `/verify` command. \n\nIf you think this is a mistake, please retry again later.",
+
+    "userInformationFailed": "Failed to fetch user information!",
+    "userInformationTitle": "%s's user data for Voidyxia:",
+    "userInformationUsername": "Associated Roblox Account:",
+
+    "embedFooterLinkPromo": "enter the depths at https://voidyxia.gg"
+}
