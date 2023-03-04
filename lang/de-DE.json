@@ -1,0 +1,31 @@
+{
+    "no_exist_user": "Der angeforderte Roblox Benutzer existiert nicht.",
+    "already_verifying": "Sie sind schon im Verifizierungs Prozess, war es ein Fehler? Lehne den Prompt Ingame ab oder warten Sie einen Moment.",
+    "already_verified": "Sie sind schon Verifiziert! Falls Sie sich entverifizieren wollen, benutzen Sie den `/unverify` Befehl.",
+
+    "VerifyModal_IngameInstructionsTitle": "Hallo, %s!",
+    "VerifyModal_IngameInstructions": "Um ihre Verifizierung abzuschließen, bitte betreten Sie in einer von Voidyxia's geradigen Projekten so wie [Emote Legacy](https://www.roblox.com/games/6562263018/Emote-Legacy) rein und folgen Sie die Anweisungen im Spiel mit dem Account das verifiziert wird.",
+
+    "Verification_FailTitle": "Verifizierungsversuch fehlgeschlagen!",
+    "Verification_FailMessage": "Leider ist Ihr Verifizierungsversuch fehlgeschlagen, stellen Sie sicher, dass Sie die Anweisungen korrekt befolgen. Wenn Sie weiterhin Probleme haben, kontaktieren Sie uns bitte über **support@voidyxia.gg**!",
+
+    "Unverification_SuccessTitle": "Entverifizierung erfolgreich!",
+    "Unverification_SuccessMessage": "Ihr Account wurde entverifiziert. Sie können sich jetzt mit einem anderen Roblox-Konto verifizieren.",
+    "Unverification_FailTitle": "Entverifizierung fehlgeschlagen!",
+    "Unverification_FailMessage": "Ihr Versuch ist leider fehlgeschlagen, bitte versuchen Sie es später erneut.",
+
+    "Verification_Requirement": "Du musst verifiziert sein, um diesen Befehl zu nutzen!",
+    "embedGeneralErrorMessage": "Ein Fehler ist aufgetreten!",
+
+    "processingTitle": "Wird bearbeitet...",
+    "processingMessage": "Bitte warten Sie, während wir Ihre Anfrage bearbeiten...",
+
+    "userNotFound": "Benutzer nicht gefunden! Stellen Sie sicher, dass sich der Benutzer auf diesem Server befindet.",
+    "userNotVerified": "Sie (oder der angeforderte Benutzer) sind nicht verifiziert! Verifizieren Sie sich mit dem Befehl `/verify`. \n\nWenn Sie der Meinung sind, dass dies ein Fehler war, versuchen Sie es später erneut.",
+
+    "userInformationFailed": "Benutzerinformationen konnten nicht abgerufen werden!",
+    "userInformationTitle": "%s's Benutzerinformationen für Voidyxia:",
+    "userInformationUsername": "Zugehöriges Roblox-Konto:",
+
+    "embedFooterLinkPromo": "fallen sie in die tiefen von https://voidyxia.gg"
+}
