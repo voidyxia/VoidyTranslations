@@ -6,6 +6,6 @@ Voidy responds to users ephemerally in most cases, thus allowing us to create la
 
 ### Voidy language contributions
 
-| Languages      | Contributors |
-| :---        |    :----:   |
-| en_EN      | @andyaspect       |
+| Languages      |  Contributors |        Associated file        | 
+| :---           |    :-----:    |            :-----:            |
+| English        |  @andyaspect  | [en_EN.json](lang/en-EN.json) |
