@@ -7,4 +7,4 @@
 | Markdown      | Modifier |
 | :---        |    :----:   |
 | **%s**      | a string primitive used to define specific constants within our infrastructure       |
-| **\n**      | a next line definition used to define next lines within our infrastructure       |
+| **\n**      | a next line primitive used to define next lines within our infrastructure       |
