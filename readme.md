@@ -8,7 +8,8 @@ Voidy responds to users ephemerally in most cases, thus allowing us to create la
 
 ### Voidy language contributions
 
-| Languages      |  Contributors |        Associated file        | 
-| :---           |    :-----:    |            :-----:            |
-| English        |  @andyaspect  | [en-EN.json](lang/en-EN.json) |
-| German         |  @andyaspect  | [de-DE.json](lang/de-DE.json) |
+| Languages      |  Contributors |          Associated file        | 
+| :---           |  :---         |              :-----:            |
+| English        |  @andyaspect  |   [en-EN.json](lang/en-EN.json) |
+| German         |  @andyaspect  |   [de-DE.json](lang/de-DE.json) |
+| Finnish        |  @AxoFit      | [fi-FIN.json](lang/fi-FIN.json) |
