@@ -12,7 +12,7 @@
     "Unverification_SuccessTitle": "Unverifying successful!",
     "Unverification_SuccessMessage": "Your account has been unverified. You can now verify with another Roblox account.",
     "Unverification_FailTitle": "Unverifying failed!",
-    "Unverification_FailMessage": "Unfortunately your unverification attempt didn't go through, please try later.",
+    "Unverification_FailMessage": "Unfortunately your unverification attempt didn't go through, please try again later.",
 
     "Verification_Requirement": "You need to be verified to use this command!",
     "embedGeneralErrorMessage": "An error occured!",
