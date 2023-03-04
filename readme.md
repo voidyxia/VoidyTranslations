@@ -10,5 +10,5 @@ Voidy responds to users ephemerally in most cases, thus allowing us to create la
 
 | Languages      |  Contributors |        Associated file        | 
 | :---           |    :-----:    |            :-----:            |
-| English        |  @andyaspect  | [en_EN.json](lang/en-EN.json) |
-| German         |  @andyaspect  | [de_DE.json](lang/de-DE.json) |
+| English        |  @andyaspect  | [en-EN.json](lang/en-EN.json) |
+| German         |  @andyaspect  | [de-DE.json](lang/de-DE.json) |
