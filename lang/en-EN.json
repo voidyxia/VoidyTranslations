@@ -21,7 +21,7 @@
     "processingMessage": "Please wait while we process your request...",
 
     "userNotFound": "User not found! Make sure the user is within this server.",
-    "userNotVerified": "You (or the requested user) is not verified! Verify yourself by using the `/verify` command. \n\nIf you think this is a mistake, please retry again later.",
+    "userNotVerified": "You (or the requested user) is not verified! Verify yourself by using the `/verify` command. \n\nIf you think this was a mistake, please retry again later.",
 
     "userInformationFailed": "Failed to fetch user information!",
     "userInformationTitle": "%s's user data for Voidyxia:",
