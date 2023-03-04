@@ -1,0 +1,31 @@
+{
+    "no_exist_user": "Syötettyä roblox käyttäjää ei löydetty.",
+    "already_verifying": "Olet jo aloittanut varmistus prosessin, oliko tämä virhe? Peruuta valintasi pelin sisällä tai odota hetki yrittääksesi uudelleen.",
+    "already_verified": "Sinun käyttäjäsi on jo varmistettu! Jos haluat poistaa varmistuksen, käytä `/unverify` komentoa.",
+
+    "VerifyModal_IngameInstructionsTitle": "Hei, %s!",
+    "VerifyModal_IngameInstructions": "Suorittaaksesi varmistuksen, liity yhteen Voidyxia'n projektiin, muun muassa: [Emote Legacy](https://www.roblox.com/games/6562263018/Emote-Legacy) ja jatka sitten pelin sisäisten ohjeiden mukaan käyttäjällä jota yrität varmistaa.",
+
+    "Verification_FailTitle": "Varmistus epäonnistui!",
+    "Verification_FailMessage": "Valitettavasti varmistus prosessi ei mennyt läpi, pidä huoli että seurasit ohjeita oikeassa järjestyksessä. Jos vielä törmäät ongelmiin, ole meihin yhteydessä: **support@voidyxia.gg**!",
+
+    "Unverification_SuccessTitle": "Varmistuksen poisto onnistui!",
+    "Unverification_SuccessMessage": "Käyttäjäsi varmistus on poistettu. Voit nyt varmistaa toisen Roblox käyttäjän.",
+    "Unverification_FailTitle": "Varmistuksen poisto epäonnistui!",
+    "Unverification_FailMessage": "Valitettavasti varmistuksen poisto pyyntösi ei mennyt läpi, Koita myöhemmin uudelleen.",
+
+    "Verification_Requirement": "Käyttäjäsi pitää olla varmistettu käyttääksesi tätä komentoa!",
+    "embedGeneralErrorMessage": "Törmäsimme ongelmaan!",
+
+    "processingTitle": "Prosessoidaan...",
+    "processingMessage": "Ole hyvä ja odota kunnes olemme prosessoineet hakemuksesi...",
+
+    "userNotFound": "Käyttäjää ei löydetty! Varmista että hakemasi käyttäjä on tällä serverillä.",
+    "userNotVerified": "Sinun (tai syötetetyn käyttäjän) Roblox käyttäjää ei ole varmistettu! Varmista käyttäjäsi käyttämällä  `/verify` komentoa. \n\nJos luulet että tämä on virhe, yritä uudelleen myöhemmin",
+
+    "userInformationFailed": "Törmäsimme ongelmaan yrittäessä hakea käyttäjätietoja!",
+    "userInformationTitle": "%s's käyttäjän voidyxia data:",
+    "userInformationUsername": "Yhdistetty Roblox käyttäjä:",
+
+    "embedFooterLinkPromo": "liity syvyyksiin osoitteessa https://voidyxia.gg"
+}
