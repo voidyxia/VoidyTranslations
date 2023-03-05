@@ -1,0 +1,30 @@
+{
+  "no_exist_user": "دیا گیا روبلوکس صارف موجود نہیں ہے۔",
+  "already_verifying": "آپ پہلے ہی اپنی تصدیق کر رہے ہیں، کیا یہ غلطی تھی؟ اپنی پسند کے کھیل کو واپس کریں یا دوبارہ کوشش کرنے سے پہلے تھوڑا انتظار کریں۔",
+  "already_verified": "آپ پہلے ہی تصدیق شدہ ہیں! اگر آپ غیر تصدیق کرنا چاہتے ہیں تو `/unverify` کمانڈ استعمال کریں۔",
+
+  "VerifyModal_IngameInstructionsTitle": "%s, ہیلو،",
+  "VerifyModal_IngameInstructions": "اور پھر اس اکاؤنٹ کے ساتھ ہدایات جاری رکھیں جس کی آپ تصدیق کرنے کی کوشش کر رہے ہیں۔ [Emote Legacy](https://www.roblox.com/games/6562263018/Emote-Legacy) کے پروجیکٹس میں سے کسی ایک میں شامل ہوں جیسے Voidyxia تصدیق مکمل کرنے کے لیے، براہ کرم ",
+
+  "Verification_FailTitle": "تصدیق ناکام",
+  "Verification_FailMessage": "کے ذریعے رابطہ کریں**support@voidyxia.gg** بدقسمتی سے آپ کی توثیق کی کوشش کامیاب نہیں ہوئی، یقینی بنائیں کہ ہدایات پر صحیح طریقے سے عمل کریں۔اگر آپ کو اب بھی مسائل درپیش ہیں، تو براہ کرم ہم سے",
+
+  "Unverification_SuccessTitle": "!غیر تصدیق کامیاب",
+  "Unverification_SuccessMessage": "آپ کا اکاؤنٹ غیر تصدیق شدہ ہے۔ اب آپ دوسرے روبلوکس اکاؤنٹ سے تصدیق کر سکتے ہیں۔",
+  "Unverification_FailTitle": "!غیر تصدیق ناکام",
+  "Unverification_FailMessage": "بدقسمتی سے آپ کی غیر تصدیق کی کوشش کامیاب نہیں ہو سکی، براہ کرم بعد میں دوبارہ کوشش کریں۔",
+
+  "Verification_Requirement": "!اس کمانڈ کو استعمال کرنے کے لیے آپ کو تصدیق کرنے کی ضرورت ہے",
+  "embedGeneralErrorMessage": "!ایک خرابی آگئی ہے",
+
+  "processingTitle": "پروسیسنگ...",
+  "processingMessage": "براہ کرم انتظار کریں جب تک ہم آپ کی درخواست پر کارروائی کرتے ہیں...",
+
+  "userNotFound": "صارف نہیں ملا! یقینی بنائیں کہ صارف اس سرور کے اندر ہے۔",
+  "userNotVerified": "اگر آپ کو لگتا ہے کہ یہ ایک غلطی تھی، تو براہ کرم بعد میں دوبارہ کوشش کریں۔\n\nکمانڈ کا استعمال کرکے خود کی تصدیق کریں۔ /verify !آپ (یا درخواست کردہ صارف) تصدیق شدہ نہیں ہیں",
+  "userInformationFailed": "!صارف کی معلومات حاصل کرنے میں ناکام",
+  "userInformationTitle": ":کا ڈیٹا %s کے لیے صارف Voidyxia",
+  "userInformationUsername": ":منسلک روبلوکس اکاؤنٹ",
+
+  "embedFooterLinkPromo": "پر گہرائیوں میں داخل ہوں https://voidyxia.gg"
+}
